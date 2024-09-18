@@ -1,5 +1,5 @@
 # HANTransformer
-🔥Leveraging Hierarchical Attention Network with Transformer (HANTransformer) for document classification tasks using 20 Newsgroups dataset.
+🔥 __Leveraging Hierarchical Attention Network__ with __Transformer (HANTransformer)__ for __document classification__ tasks using __20 Newsgroups dataset__.
 
 # Hierarchical Attention Network with Transformer for Document Classification
 
