@@ -4,8 +4,9 @@
 # Hierarchical Attention Network with Transformer for Document Classification
 
 
+
 ## Table of Contents
-1.Introduction(#introduction)
+1.[Introduction](#introduction)
 
 2.Features
 
@@ -30,7 +31,7 @@
 12.Acknowledgements
 
 
-## Introduction
+## Introduction <a name="introduction"></a>
 The Hierarchical Attention Network with Transformer (HANTransformer) is a sophisticated model designed for document classification tasks. By leveraging a hierarchical structure, the model effectively captures both word-level and sentence-level information, integrating Part-of-Speech (POS) tags and rule-based embeddings to enhance its understanding of textual data. This project demonstrates the implementation, preprocessing, and training processes required to deploy the HANTransformer using the 20 Newsgroups dataset.
 
 ## Features
