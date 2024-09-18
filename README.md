@@ -8,27 +8,27 @@
 ## Table of Contents
 1.[Introduction](#introduction)
 
-2.Features
+2.[Features](#features)
 
-3.Architecture
+3.[Architecture](#architecture)
 
-4.Installation
+4.[Installation](#installation)
 
-5.Data Preprocessing
+5.[Data Preprocessing](#data-preprocessong)
 
-6.Training
+6.[Training](#training)
 
-7.Evaluation
+7.[Evaluation](#evaluation)
 
-8.Usage
+8.[Usage](#usage)
 
-9.Project Structure
+9.[Project Structure](#project-structure)
 
-10.Contributing
+10.[Contributing](#contribution)
 
-11.License
+11.[License](#license)
 
-12.Acknowledgements
+12.[Acknowledgements](#acknowledgements)
 
 
 ## Introduction <a name="introduction"></a>
