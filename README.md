@@ -4,7 +4,7 @@
 # Hierarchical Attention Network with Transformer for Document Classification
 
 
-    1.Table of Contents
+  ## Table of Contents
     2.Introduction
     3.Features
     4.Architecture
