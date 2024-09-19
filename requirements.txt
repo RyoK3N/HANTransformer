@@ -1,0 +1,10 @@
+torch
+transformers
+pandas
+scikit-learn
+numpy
+tqdm
+matplotlib
+seaborn
+joblib
+optuna
