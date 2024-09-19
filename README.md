@@ -93,9 +93,9 @@ The preprocessing pipeline tokenizes the text data, builds vocabularies, encodes
 
 __Steps:__
 
-        1).Tokenization: Splits documents into sentences and words.
+        1)Tokenization: Splits documents into sentences and words.
         
-        2).Vocabulary Building: Constructs vocabularies for words, POS tags, and rules.
+        2)Vocabulary Building: Constructs vocabularies for words, POS tags, and rules.
         
         3)Encoding: Converts tokens and tags into numerical IDs.
         
