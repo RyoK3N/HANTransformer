@@ -128,4 +128,28 @@ __Steps:__
     6)Model Saving: Saves the best-performing model based on test accuracy.
 
 
+### Run Training
+
+    python train.py
+
+The best model will be saved as best_model.pt in the data directory.
+
+## Evaluation
+
+During training, the model is evaluated on the test set after each epoch. The evaluation metrics include:
+
+### Run Evaluation
+
+    python evaluate.py
+
+## Prediction 
+
+After training we can make predictions by running the prediction script.
+
+### Run Predictions
+
+    python evaluate.py
+
+
+This will ask the users an input sentence and give predictions on the sentence.
 
