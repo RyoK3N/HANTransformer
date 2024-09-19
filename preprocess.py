@@ -10,7 +10,7 @@ from collections import Counter
 from tqdm import tqdm
 from multiprocessing import Pool, cpu_count
 
-# Install spaCy model if not already installed
+# Install spaCy model
 try:
     nlp = spacy.load("en_core_web_sm")
 except:
