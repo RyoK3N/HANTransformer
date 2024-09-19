@@ -6,29 +6,29 @@
 
 
 ## Table of Contents
-1.[Introduction](#introduction)
+1).[Introduction](#introduction)
 
-2.[Features](#features)
+2).[Features](#features)
 
-3.[Architecture](#architecture)
+3).[Architecture](#architecture)
 
-4.[Installation](#installation)
+4).[Installation](#installation)
 
-5.[Data Preprocessing](#data-preprocessong)
+5).[Data Preprocessing](#data-preprocessong)
 
-6.[Training](#training)
+6).[Training](#training)
 
-7.[Evaluation](#evaluation)
+7).[Evaluation](#evaluation)
 
-8.[Usage](#usage)
+8).[Usage](#usage)
 
-9.[Project Structure](#project-structure)
+9).[Project Structure](#project-structure)
 
-10.[Contributing](#contribution)
+10).[Contributing](#contribution)
 
-11.[License](#license)
+11).[License](#license)
 
-12.[Acknowledgements](#acknowledgements)
+12).[Acknowledgements](#acknowledgements)
 
 
 ## Introduction <a name="introduction"></a>
