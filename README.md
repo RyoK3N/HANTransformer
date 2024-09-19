@@ -36,31 +36,31 @@ The Hierarchical Attention Network with Transformer (HANTransformer) is a sophis
 
 ## Features
 
-    1).__Hierarchical Structure:__ Processes documents at both word and sentence levels.
-    
-    2).__Transformer-Based:__ Utilizes multi-head self-attention mechanisms for contextual understanding.
-    
-    3).__Incorporates POS Tags and Rule Embeddings:__ Enhances feature representation with linguistic information.
-    
-    4).__Scalable Preprocessing:__ Efficiently tokenizes and encodes data using multiprocessing.
-    
-    5).__Flexible Configuration:__ Easily adjustable hyperparameters for various use-cases.
-    Comprehensive Training Pipeline: Includes training, evaluation, and model saving functionalities.
+1).__Hierarchical Structure:__ Processes documents at both word and sentence levels.
+
+2).__Transformer-Based:__ Utilizes multi-head self-attention mechanisms for contextual understanding.
+
+3).__Incorporates POS Tags and Rule Embeddings:__ Enhances feature representation with linguistic information.
+
+4).__Scalable Preprocessing:__ Efficiently tokenizes and encodes data using multiprocessing.
+
+5).__Flexible Configuration:__ Easily adjustable hyperparameters for various use-cases.
+Comprehensive Training Pipeline: Includes training, evaluation, and model saving functionalities.
 
 ## Architecture
 The HANTransformer model comprises several key components:
 
-    1).__Fusion Layer:__ Combines word embeddings, POS tag embeddings, and rule embeddings using a gating mechanism.
-    
-    2).__Positional Encoding:__ Adds learnable positional information to embeddings.
-    
-    3).__Multi-Head Self-Attention:__ Captures dependencies and relationships within the data.
-    
-    4).__Transformer Encoder Layers:__ Stacks multiple layers of attention and feed-forward networks for deep feature extraction.
-    
-    5).__Attention Mechanisms:__ Applies attention at both word and sentence levels to generate meaningful representations.
-    
-    6).__Classification Head:__ Outputs logits corresponding to the target classes.
+1).__Fusion Layer:__ Combines word embeddings, POS tag embeddings, and rule embeddings using a gating mechanism.
+
+2).__Positional Encoding:__ Adds learnable positional information to embeddings.
+
+3).__Multi-Head Self-Attention:__ Captures dependencies and relationships within the data.
+
+4).__Transformer Encoder Layers:__ Stacks multiple layers of attention and feed-forward networks for deep feature extraction.
+
+5).__Attention Mechanisms:__ Applies attention at both word and sentence levels to generate meaningful representations.
+
+6).__Classification Head:__ Outputs logits corresponding to the target classes.
 
 ## Installation
 
