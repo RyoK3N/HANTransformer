@@ -61,3 +61,49 @@ The HANTransformer model comprises several key components:
     5).__Attention Mechanisms:__ Applies attention at both word and sentence levels to generate meaningful representations.
     
     6).__Classification Head:__ Outputs logits corresponding to the target classes.
+
+## Installation
+
+### Prerequisites
+
+        Python 3.7+
+        pip package manager
+
+### Clone the Repository
+
+        git clone https://github.com/yourusername/your-repo-name.git
+        cd your-repo-name
+
+### Create a Virtual Environment 
+
+    conda create -n HANT python=3.11
+    conda activate HANT
+
+### Install Dependencies
+
+        pip install -r requirements.txt
+
+### Download spaCy Model
+
+        python -m spacy download en_core_web_sm
+
+## Data Preprocessing
+
+The preprocessing pipeline tokenizes the text data, builds vocabularies, encodes the texts, POS tags, and rules, and saves the processed data for training.
+
+__Steps:__
+
+        1).Tokenization: Splits documents into sentences and words.
+        
+        2).Vocabulary Building: Constructs vocabularies for words, POS tags, and rules.
+        
+        3).Encoding: Converts tokens and tags into numerical IDs.
+        
+        4).Mask Creation: Generates attention and sentence masks to handle padding.
+        
+        5).Saving Processed Data: Stores the preprocessed data in JSON format.
+
+
+
+
+
