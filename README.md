@@ -66,13 +66,13 @@ The HANTransformer model comprises several key components:
 
 ### Prerequisites
 
-        Python 3.7+
-        pip package manager
+    Python 3.7+
+    pip package manager
 
 ### Clone the Repository
-
-        git clone https://github.com/yourusername/your-repo-name.git
-        cd your-repo-name
+    
+    git clone https://github.com/yourusername/your-repo-name.git
+    cd your-repo-name
 
 ### Create a Virtual Environment 
 
@@ -80,12 +80,12 @@ The HANTransformer model comprises several key components:
     conda activate HANT
 
 ### Install Dependencies
-
-        pip install -r requirements.txt
+    
+    pip install -r requirements.txt
 
 ### Download spaCy Model
 
-        python -m spacy download en_core_web_sm
+    python -m spacy download en_core_web_sm
 
 ## Data Preprocessing
 
