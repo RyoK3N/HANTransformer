@@ -148,7 +148,7 @@ After training we can make predictions by running the prediction script.
 
 ### Run Predictions
 
-    python evaluate.py
+    python predict.py
 
 
 This will ask the users an input sentence and give predictions on the sentence.
