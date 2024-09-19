@@ -36,15 +36,15 @@ The Hierarchical Attention Network with Transformer (HANTransformer) is a sophis
 
 ## Features
 
-__Hierarchical Structure:__ Processes documents at both word and sentence levels.
+1.__Hierarchical Structure:__ Processes documents at both word and sentence levels.
 
-__Transformer-Based:__ Utilizes multi-head self-attention mechanisms for contextual understanding.
+2.__Transformer-Based:__ Utilizes multi-head self-attention mechanisms for contextual understanding.
 
-__Incorporates POS Tags and Rule Embeddings:__ Enhances feature representation with linguistic information.
+3.__Incorporates POS Tags and Rule Embeddings:__ Enhances feature representation with linguistic information.
 
-__Scalable Preprocessing:__ Efficiently tokenizes and encodes data using multiprocessing.
+4.__Scalable Preprocessing:__ Efficiently tokenizes and encodes data using multiprocessing.
 
-__Flexible Configuration:__ Easily adjustable hyperparameters for various use-cases.
+5.__Flexible Configuration:__ Easily adjustable hyperparameters for various use-cases.
 Comprehensive Training Pipeline: Includes training, evaluation, and model saving functionalities.
 
 ## Architecture
