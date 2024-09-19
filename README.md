@@ -103,7 +103,29 @@ __Steps:__
         
         5).Saving Processed Data: Stores the preprocessed data in JSON format.
 
+### Run Preprocessing
 
+    python preprocess.py
+
+This will create a data directory containing processed_data.json.
+
+## Training 
+
+The training script initializes the model, loads the preprocessed data, and trains the HANTransformer on the 20 Newsgroups dataset.
+
+__Steps:__
+
+    1).Load Processed Data: Reads the preprocessed JSON data.
+    
+    2).Create Datasets and DataLoaders: Prepares data for batching.
+    
+    3).Initialize the Model: Sets up the HANTransformer with specified hyperparameters.
+    
+    4).Define Loss and Optimizer: Uses CrossEntropyLoss and Adam optimizer.
+    
+    5).Training Loop: Trains the model for a defined number of epochs, evaluating on the test set.
+    
+    6).Model Saving: Saves the best-performing model based on test accuracy.
 
 
 
